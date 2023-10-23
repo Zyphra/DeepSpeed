@@ -6,5 +6,6 @@ psutil
 py-cpuinfo
 pydantic
 recommonmark
+sphinx_rtd_theme
 torch
 tqdm
